@@ -1,0 +1,14 @@
+ const carro = {
+  nome: 'Roberto',
+  idade: '29',
+  tarefas:['É trabalhador dedicado mais tem uma vida dificel mais ele nem sabe que ele é corno'],
+  falarnome:function(){
+console.log('Roberto')
+ 
+    
+  }
+ }
+ console.log(carro.idadedodomo)
+
+ carro['idade'] = 28
+ console.log(carro)
